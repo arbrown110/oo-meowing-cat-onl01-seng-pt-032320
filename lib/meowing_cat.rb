@@ -4,7 +4,7 @@ class Cat
   def 
   end
 
-   def meow
+   def meow (name)
    puts "Meow!"
   end
 end  
